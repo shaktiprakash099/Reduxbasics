@@ -13,7 +13,7 @@
  
  So  you have to create a proper folder structure kindly see my project you will get to know 
  
- First thing  you have create a ReducerIndex.js inside reducers where you have to include all your reducers
+ 
  
    
 
